@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! My name is Ryan 👋
+
+- 🧑‍🎓 I’m currently studying computer science at Western Washington University
+- 🔭 I’m currently doing undergraduate research in Rust, developing an realistic simulation of the internet
 
 <!--
 **rvbcldud/rvbcldud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
